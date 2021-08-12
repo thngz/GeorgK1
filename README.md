@@ -13,3 +13,6 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgK1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgK1)](https://github.com/anuraghazra/github-readme-stats)
+
